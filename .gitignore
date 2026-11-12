@@ -148,3 +148,8 @@ site/lesson-code/
 .project-validation/
 projects/*/solution/output/
 projects/*/solution/demo-output/
+
+# Model checkpoints
+*.pt
+*.pth
+*.safetensors
