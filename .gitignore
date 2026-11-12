@@ -154,3 +154,5 @@ projects/*/solution/demo-output/
 *.pth
 *.safetensors
 .env
+.env
+.env
