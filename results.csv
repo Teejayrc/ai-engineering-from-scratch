@@ -1,0 +1,4 @@
+model,accuracy
+Linear,0.72
+Random Forest,0.89
+Neural Net,0.94
